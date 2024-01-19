@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://192.168.43.62:5000/vid3/index.html",
+            "request": "launch",
+            "url": "http://192.168.43.62:5000/vid3/index.html"
+        }
+    ]
+}
